@@ -1,0 +1,11 @@
+IMPORTANTE!
+Para poder ingresar al sistema debes ingresar con la siguiente informacion,
+luego podras modificar la cuenta existente, en el modulo de cuentas y privilegios.
+
+Usuario: Planeta Office
+Contraseña: 12345
+
+Recuerda ademas que el sistema incluye tambien videos tutoriales de utilizacion para 
+que tengas una mejor comprencion del mismo.
+
+Muchas Gracias! por preferirnos
